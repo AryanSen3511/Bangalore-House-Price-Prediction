@@ -1,5 +1,8 @@
 # 🏠 Bangalore House Price Prediction
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+
 ### A Machine Learning web application built using Flask, Scikit-Learn, and Pandas to predict housing prices in Bangalore based on input features like location, square feet area, BHK, and bathrooms.
 
 ---
