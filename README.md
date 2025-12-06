@@ -115,5 +115,11 @@ http://127.0.0.1:5081/
 Aryan Sen — Machine Learning
 
 
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — you are free to use, modify, and distribute this project, provided proper credit is given.
+
 
 
